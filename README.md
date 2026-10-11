@@ -1,4 +1,4 @@
-# Operating System - Kernal Components
+# Operating System (OS)
 Welcome to my Operating System repository! This documentation covers the core components of an operating system kernel.
 
 # Core Kernel Components
